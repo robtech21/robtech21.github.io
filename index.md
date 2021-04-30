@@ -8,7 +8,7 @@ Here are all of my active projects:
 
 Project | Status
 --------|-------
-[Digital Swiss Army Knife](https://robtech21.github.io/DigitalSwissArmyKnife) | In development (unreleased)
+[Digital Swiss Army Knife](https://robtech21.github.io/DigitalSwissArmyKnife) | Stable release 1.0.0. (Minor release 1.1.0 is coming soon, hopefully)
 [xetch](https://github.com/B00bleaTea/xetch) | Actively contributing (doing PRs)
 
 Here are all of my dead or inactive projects:
